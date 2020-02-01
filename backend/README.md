@@ -1,4 +1,4 @@
-# Full Stack Trivia API Backend
+# Trivia API Backend
 
 ## Getting Started
 
@@ -26,9 +26,9 @@ This will install all of the required packages we selected within the `requireme
 
 - [Flask](http://flask.pocoo.org/) is a lightweight backend microservices framework. Flask is required to handle requests and responses.
 
-- [SQLAlchemy](https://www.sqlalchemy.org/) is the Python SQL toolkit and ORM we'll use handle the lightweight sqlite database. You'll primarily work in app.py and can reference models.py. 
+- [SQLAlchemy](https://www.sqlalchemy.org/) is the Python SQL toolkit and ORM is used to handle the lightweight sqlite database. 
 
-- [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/#) is the extension we'll use to handle cross origin requests from our frontend server. 
+- [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/#) is the extension used to handle cross origin requests from the frontend server. 
 
 ## Database Setup
 With Postgres running, restore a database using the trivia.psql file provided. From the backend folder in terminal run:
