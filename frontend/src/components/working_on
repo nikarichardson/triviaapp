@@ -1,0 +1,3 @@
+  category={this.state.categories[q.category]}
+
+   img={`${this.state.categories[q.category.id]}.svg`}
