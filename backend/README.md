@@ -66,7 +66,8 @@ Setting the `FLASK_APP` variable to `flaskr` directs flask to use the `flaskr` d
 '3' : "Geography",
 '4' : "History",
 '5' : "Entertainment",
-'6' : "Sports"}
+'6' : "Sports"
+}
 ```
 - Errors: If no categories are found, results in a 404 error. 
 
