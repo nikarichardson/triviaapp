@@ -21,7 +21,7 @@ class FormView extends Component {
 
   getQuestions = () => {
     $.ajax({ 
-      url: `/questions?page=1`, //TODO: update request URL
+      url: `/questions?page=1`, 
       type: "GET",
       success: (result) => {
         this.setState({
