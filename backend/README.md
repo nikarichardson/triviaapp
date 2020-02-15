@@ -168,11 +168,11 @@ Errors are returned as JSON objects. See an example error handler below.
 ```
 
 This api will return the following errors: 
-	- **400:** Bad Request
-	- **404:** Resource Not Found
-	- **422:** Not Processable 
-	- **500:** Internal Server Error
-	- **416:** Range Not Satisfiable 
+- **400:** Bad Request
+- **404:** Resource Not Found
+- **422:** Not Processable 
+- **500:** Internal Server Error
+- **416:** Range Not Satisfiable 
 
 ## Testing
 To run the tests, run
